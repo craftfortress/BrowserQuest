@@ -337,4 +337,3 @@ var processLayer = function(layer) {
         }
     }
 }
-
