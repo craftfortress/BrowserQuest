@@ -1,0 +1,1399 @@
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO Processing map info...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Map is [172x614] Tile Size: 16
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO * Phase 1 Tileset Processing
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing map tileset properties...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 4
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [4] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 5
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 7
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [7] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 10
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [10] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 18
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 19
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 20
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 25
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [25] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 38
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [38] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 39
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [39] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 40
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [40] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 44
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 45
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 46
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 47
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 48
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 49
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 50
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 51
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 58
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [58] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 59
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [59] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 60
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [60] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 61
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 62
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 64
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 65
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [65] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 66
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [66] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 67
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [67] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 68
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [68] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 69
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [69] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 70
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [70] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 71
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 81
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [81] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 82
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 84
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 85
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [85] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 86
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [86] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 87
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [87] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 88
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [88] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 89
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [89] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 90
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [90] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 91
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 98
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [98] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 101
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 102
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 104
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 105
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [105] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 106
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [106] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 107
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [107] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 108
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [108] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 109
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [109] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 110
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [110] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 111
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 121
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [121] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 122
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 125
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [125] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 126
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [126] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 127
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [127] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 128
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [128] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 129
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [129] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 130
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [130] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 131
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 141
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 142
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 143
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 145
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [145] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 146
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [146] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 147
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [147] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 148
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [148] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 149
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [149] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 150
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [150] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 151
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 161
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [161] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 162
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [162] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 163
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 165
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [165] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 166
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [166] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 167
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [167] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 168
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [168] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 169
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [169] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 170
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [170] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 171
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 181
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [181] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 182
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [182] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 183
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 206
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 207
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 208
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 213
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 214
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 215
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 216
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 225
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 226
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 227
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 228
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 229
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 233
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 234
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 235
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 236
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 241
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 244
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 245
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 246
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 247
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 248
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 249
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 250
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 253
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 254
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 255
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 256
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 257
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [257] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 258
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [258] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 259
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [259] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 260
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [260] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 264
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 265
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 266
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 267
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 268
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 269
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 270
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [270] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 271
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 273
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 274
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [274] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 275
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [275] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 276
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 277
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [277] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 278
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [278] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 279
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [279] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 280
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [280] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 281
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 282
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 284
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [284] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 285
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [285] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 286
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [286] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 287
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [287] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 288
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [288] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 289
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [289] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 290
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [290] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 291
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 293
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 294
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [294] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 295
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [295] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 296
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 301
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 302
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 304
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [304] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 305
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [305] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 306
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [306] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 307
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [307] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 308
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [308] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 309
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [309] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 310
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [310] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 311
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 321
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [321] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 322
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [322] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 324
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [324] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 325
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [325] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 326
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [326] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 327
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [327] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 328
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [328] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 329
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [329] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 330
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [330] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 331
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 332
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 333
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 341
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [341] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 342
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [342] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 344
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [344] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 345
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [345] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 346
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [346] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 347
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [347] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 348
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [348] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 349
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [349] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 350
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [350] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 351
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 352
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 353
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 364
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [364] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 365
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [365] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 366
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [366] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 367
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [367] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 368
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [368] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 369
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [369] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 370
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [370] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 371
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 372
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [372] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 373
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [373] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 382
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 401
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 402
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 403
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 406
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [406] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 407
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [407] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 408
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [408] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 409
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [409] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 410
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [410] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 411
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [411] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 421
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [421] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 422
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [422] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 423
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [423] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 426
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [426] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 427
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [427] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 428
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [428] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 429
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [429] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 430
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [430] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 431
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [431] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 441
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [441] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 442
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [442] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 443
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [443] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 446
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [446] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 447
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [447] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 448
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [448] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 449
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [449] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 450
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [450] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 451
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [451] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 466
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [466] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 467
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [467] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 468
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [468] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 469
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [469] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 470
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [470] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 471
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [471] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 481
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 482
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 501
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [501] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 502
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [502] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 602
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 606
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 611
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [611] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 612
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [612] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 613
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [613] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 618
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 619
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 621
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 622
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 623
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 626
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 631
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [631] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 633
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [633] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 637
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 638
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 639
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 640
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 641
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [641] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 642
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [642] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 643
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [643] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 646
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 649
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [649] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 651
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [651] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 652
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [652] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 653
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [653] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 657
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 658
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 659
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 660
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 661
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [661] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 662
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [662] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 663
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [663] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 666
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [666] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 667
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [667] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 669
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [669] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 677
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 678
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 679
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 680
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 685
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 686
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [686] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 687
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [687] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 688
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [688] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 689
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [689] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 690
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [690] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 698
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [698] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 699
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [699] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 701
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 702
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 703
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 704
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 705
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 706
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [706] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 721
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 722
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 723
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 724
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 725
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 726
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [726] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 737
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [737] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 738
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [738] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 739
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [739] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 741
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 742
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 743
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 744
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 745
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 748
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 757
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 758
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 759
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 761
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [761] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 762
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [762] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 763
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [763] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 764
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [764] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 765
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 777
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [777] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 778
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [778] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 779
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [779] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 781
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 783
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 784
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 795
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 797
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [797] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 798
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [798] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 799
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [799] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 801
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 804
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 814
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 815
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 816
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 821
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [821] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 824
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [824] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 834
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 835
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 836
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 841
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [841] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 844
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [844] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 854
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 855
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 856
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 861
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 864
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 875
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [875] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 885
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 886
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 887
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 906
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [906] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 921
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [921] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 922
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [922] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 923
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [923] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 924
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [924] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 925
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [925] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 933
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [933] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 934
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [934] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 937
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [937] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 938
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [938] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 942
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [942] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 943
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [943] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 944
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [944] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 952
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [952] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 953
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [953] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 955
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [955] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 956
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [956] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 958
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [958] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 959
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [959] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 963
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [963] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 967
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [967] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 968
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [968] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 969
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [969] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 970
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [970] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 971
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [971] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 972
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [972] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 975
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [975] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 976
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [976] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 979
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [979] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 980
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [980] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 987
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [987] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 988
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [988] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 989
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [989] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 990
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [990] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 991
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [991] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 995
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [995] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 996
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [996] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1000
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1000] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1001
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1001] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1007
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1007] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1008
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1008] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1011
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1011] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1014
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1014] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1015
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1015] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1016
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1016] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1020
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1020] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1021
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1021] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1027
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1027] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1028
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1028] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1031
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1031] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1032
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1032] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1039
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1039] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1040
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1040] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1041
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1041] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1047
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1047] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1048
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1048] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1051
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1051] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1052
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1052] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1053
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1053] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1058
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1058] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1059
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1059] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1060
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1060] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1061
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1061] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1067
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1067] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1068
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1068] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1072
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1072] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1073
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1073] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1074
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1074] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1075
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1075] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1076
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1076] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1077
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1077] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1078
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1078] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1079
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1079] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1081
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1093
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1093] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1094
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1094] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1095
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1095] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1096
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1096] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1097
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1097] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1098
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1098] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1101
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1101] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1102
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1103
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1103] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1104
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1104] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1105
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1106
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1106] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1107
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1107] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1120
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1120] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1121
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1122
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1122] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1125
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1125] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1127
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1127] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1129
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1129] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1130
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1130] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1131
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1131] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1132
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1132] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1133
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1133] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1134
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1134] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1135
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1135] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1136
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1136] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1137
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1137] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1140
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1140] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1141
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1147
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1147] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1148
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1148] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1150
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1150] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1151
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1151] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1152
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1152] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1153
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1153] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1154
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1154] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1155
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1155] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1156
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1156] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1157
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1157] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1159
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1159] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1160
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1160] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1161
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1167
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1167] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1169
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1169] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1178
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1178] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1179
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1179] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1180
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1180] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1181
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1181] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1183
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1183] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1184
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1185
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1185] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1188
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1188] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1189
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1189] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1190
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1190] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1191
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1191] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1192
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1192] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1193
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1193] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1194
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1194] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1195
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1195] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1196
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1196] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1197
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1197] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1198
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1198] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1199
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1199] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1204
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1209
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1209] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1210
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1210] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1211
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1211] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1212
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1212] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1213
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1213] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1214
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1214] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1215
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1215] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1216
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1216] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1217
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1217] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1218
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1218] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1223
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1223] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1224
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1224] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1227
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1227] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1228
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1228] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1236
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1237
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1241
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1242
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1242] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1243
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1243] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1245
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1245] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1246
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1246] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1247
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1248
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1248] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1249
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1249] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1251
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1251] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1257
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1257] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1258
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1261
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1261] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1262
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1262] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1265
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1265] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1266
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1266] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1269
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1269] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1270
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1270] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1271
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1271] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1281
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1281] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1285
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1285] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1286
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1286] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1290
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1290] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1291
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1291] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1296
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1301
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1301] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1304
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1304] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1305
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1305] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1306
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1306] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1310
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1310] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1311
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1311] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1316
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1321
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1321] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1322
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1322] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1323
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1329
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1329] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1330
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1330] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1331
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1331] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1336
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1341
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1341] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1342
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1342] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1343
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1343] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1344
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1345
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1346
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1347
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1348
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1348] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1349
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1349] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1350
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1350] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1362
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1362] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1363
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1363] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1364
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1364] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1365
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1365] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1366
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1366] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1367
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1367] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1368
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1368] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1369
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1369] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1371
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1371] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1372
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1372] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1373
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1373] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1383
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1383] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1384
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1384] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1385
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1385] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1386
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1386] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1387
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1387] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1388
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1388] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1391
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1391] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1393
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1393] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1401
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1401] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1411
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1411] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1418
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1421
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1421] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1428
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1428] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1437
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1441
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1442
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1443
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1444
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1455
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1456
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1461
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1461] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1462
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1462] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1463
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1463] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1464
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1464] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1466
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1466] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1467
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1467] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1468
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1468] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1469
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1469] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1474
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1475
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1476
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1477
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1481
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1481] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1482
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1482] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1483
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1483] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1484
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1484] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1486
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1486] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1489
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1489] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1493
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1494
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1495
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1496
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1497
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1498
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1501
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1501] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1506
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1506] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1509
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1509] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1512
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1513
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1514
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1515
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1516
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1517
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1518
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1519
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1521
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1526
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1526] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1527
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1527] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1528
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1528] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1529
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1529] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1532
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1533
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1533] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1534
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1534] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1535
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1535] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1536
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1536] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1537
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1537] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1538
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1538] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1539
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1552
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1553
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1553] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1554
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1554] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1555
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1555] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1556
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1556] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1557
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1557] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1558
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1558] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1559
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1561
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1562
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1563
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1572
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1573
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1573] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1574
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1574] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1575
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1575] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1576
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1576] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1577
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1577] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1578
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1578] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1579
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1581
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1582
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1583
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1584
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1586
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1593
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1593] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1594
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1594] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1595
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1595] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1596
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1596] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1597
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1597] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1598
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1598] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1599
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1601
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1602
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1603
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1604
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1605
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1613
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1613] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1614
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1614] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1615
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1615] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1616
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1616] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1617
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1617] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1618
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1618] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1619
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1622
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1622] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1623
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1624
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1626
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1626] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1627
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1628
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1628] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1647
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1661
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1661] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1662
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1662] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1663
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1663] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1666
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1667
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1669
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1670
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1671
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1678
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1679
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1680
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1681
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1681] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1683
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1683] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1686
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1686] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1687
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1687] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1689
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1689] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1690
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1690] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1691
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1691] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1698
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1699
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1700
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1718
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1719
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1720
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1721
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1721] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1739
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1739] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1741
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1744
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1744] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1745
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1745] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1746
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1746] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1747
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1747] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1764
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1764] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1766
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1766] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1767
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1767] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1781
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1800
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1800] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1801
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1801] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1820
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1820] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1821
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1822
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1823
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1841
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1842
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1843
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1857
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1858
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1859
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1861
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1862
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1863
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1864
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1865
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1877
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1877] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1878
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1878] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1879
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1879] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1881
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1882
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1883
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1884
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1885
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1886
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1894
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1897
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1897] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1898
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1898] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1899
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1899] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1902
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1902] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1903
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1906
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1914
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1917
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1917] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1919
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1919] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Tile ID 1921
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] DEBUG Tile ID [1921] is a collision tile
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing static entity properties...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 1 type skeleton
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 2 type goblin
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 3 type ogre
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 4 type rat
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 5 type spectre
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 6 type crab
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 7 type guard
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 8 type king
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 9 type octocat
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 10 type wizard
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 11 type villagegirl
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 12 type villager
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 13 type priest
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 14 type bat
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 15 type eye
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 16 type snake
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 17 type skeleton2
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 18 type boss
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 19 type scientist
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 20 type agent
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 21 type rick
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 22 type nyan
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 23 type sorcerer
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 24 type deathknight
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 25 type beachnpc
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 26 type desertnpc
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 27 type lavanpc
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 28 type coder
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 41 type redarmor
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 42 type firefox
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 43 type goldenarmor
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 44 type leatherarmor
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 45 type mailarmor
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 46 type platearmor
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 81 type sword2
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 82 type axe
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 83 type morningstar
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 84 type redsword
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 85 type bluesword
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 86 type goldensword
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 101 type flask
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 102 type firepotion
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing Entity ID 103 type cake
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO * Phase 2 Layer Processing
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing static chests...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing chest areas...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing doors...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing roaming mob areas...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing map checkpoints...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO * Phase 3 Tile Map Processing
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: mobile zones
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: checkpoints
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: music
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: blocking
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: plateau
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: zones
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: portals
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: roaming
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: doors
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: chestareas
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: chests
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: entities
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Processing positions of static entities...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: minerals
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: sea
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: mase walls
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: mase
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: forest objects 2
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: forest objects 1
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: bridge
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: bridges shadows
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: forest trees
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: forest boundaries
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: forest lakes
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: forest
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: forest paths
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: easter eggs
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: indoor objects
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: carpets
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: indoor doors
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: indoorwalls
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: indoor
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: cavewalls
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: caveriver
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: trees2
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: cave
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: lava boundaries
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: lavafalls
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: cactus
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: totems
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: cliffs 2
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: cliffs
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: canyon
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: lava
+[Thu Mar 28 2013 19:12:49 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: bones
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: camps
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: dead trees
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: graveyard
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: small rocks
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: dead leaves
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: dead grass
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: graveyard mud
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: big rocks
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: dryground2
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: dryground
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: houses
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: houses layer 2
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: river
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: village boundaries lvl 2
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: village boundaries
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: lakes
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: grassvariations
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: water
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: stone
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: grass
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: mud
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: groundvariations
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: ground
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: sand objects
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO ** Processing layer: sand
+[Thu Mar 28 2013 19:12:50 GMT+0000 (GMT Standard Time)] INFO *** Process raw layer data...
